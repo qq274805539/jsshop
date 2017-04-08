@@ -1,0 +1,298 @@
+<layout name="Public/layout"/>
+
+<link rel="stylesheet" type="text/css" href="{:C('ADMIN_CSS_PATH')}select2_metro.css" />
+
+<link rel="stylesheet" href="{:C('ADMIN_CSS_PATH')}DT_bootstrap.css" />
+
+<!-- END PAGE LEVEL STYLES -->
+
+<link rel="shortcut icon" href="{:C('ADMIN_IMG_PATH')}favicon.ico" />
+
+				<!-- END PAGE HEADER-->
+
+				<!-- BEGIN PAGE CONTENT-->
+
+				<div class="row-fluid">
+
+					<div class="span12">
+
+						<!-- BEGIN EXAMPLE TABLE PORTLET-->
+
+						<div class="portlet box blue">
+
+							<div class="portlet-title">
+
+								<div class="caption"><i class="icon-edit"></i>订单详情</div>
+
+								<div class="tools">
+
+									<a href="javascript:;" class="collapse"></a>
+
+									<a href="#portlet-config" data-toggle="modal" class="config"></a>
+
+									<a href="javascript:;" class="reload"></a>
+
+									<a href="javascript:;" class="remove"></a>
+
+								</div>
+
+							</div>
+
+							<div class="portlet-body">
+
+								<div class="clearfix">
+
+									<div class="btn-group">
+
+										<!--<button id="sample_editable_1_new" class="btn green">-->
+											<!--<button id="" class="btn green">
+											<a href="{:U('Admin/Goods/Goods_add')}">添加产品 </a><i class="icon-plus"></i>
+
+										</button>-->
+
+									</div>
+
+									<div class="btn-group pull-right">
+
+										<!--<button class="btn dropdown-toggle" data-toggle="dropdown">Tools <i class="icon-angle-down"></i>
+
+										</button>-->
+
+										<ul class="dropdown-menu pull-right">
+
+											<li><a href="#">Print</a></li>
+
+											<li><a href="#">Save as PDF</a></li>
+
+											<li><a href="#">Export to Excel</a></li>
+
+										</ul>
+
+									</div>
+
+								</div>
+
+							<!--	<table class="table table-striped table-hover table-bordered" id="sample_editable_1">-->
+								<table class="table table-striped table-hover table-bordered" >
+
+									<thead>
+
+                                    <tr>
+                                  <th colspan="3">订单详细信息</th>
+                                    </tr>
+                                    </thead>
+
+                                    <tbody>
+									<tr>
+									<td width="15%">订单ID</td>
+									<td>{$orderinfo.order_id}</td>
+									<td width="10%"></td>
+									</tr>
+									<tr>
+										<td>订单编号</td>
+										<td>{$orderinfo.order_number}</td>
+										<td></td>
+									</tr>
+									<tr>
+										<td>订单总价格</td>
+										<td>{$orderinfo.order_price}</td>
+										<td>修改</td>
+									</tr>
+									<tr>
+										<td>支付方式</td>
+										<td>{$orderinfo.order_pay}</td>
+										<td></td>
+									</tr>
+									<tr>
+										<td>订单收货地址</td>
+										<td>{$orderinfo.cgn}</td>
+										<td>修改</td>
+									</tr>
+									<tr>
+										<td>发票抬头</td>
+										<td>{$orderinfo.order_fapiao_title}</td>
+										<td>修改</td>
+									</tr>
+									<tr>
+										<td>发票内容</td>
+										<td>{$orderinfo.order_fapiao_content}</td>
+										<td>修改</td>
+									</tr>
+									<tr>
+										<td>订单是否发货</td>
+										<td>{$orderinfo.is_send}</td>
+										<td>修改</td>
+									</tr>
+									<tr>
+										<td>订单是否支付</td>
+										<td>{$orderinfo.order_status}</td>
+										<td>修改</td>
+									</tr>
+									</tbody>
+
+
+								</table>
+
+								<table class="table table-striped table-hover table-bordered" >
+
+									<thead>
+
+									<tr>
+										<th colspan="3">订单关联商品信息</th>
+									</tr>
+									</thead>
+
+									<tbody>
+									<tr>
+										<td >商品ID</td>
+										<td>商品名称</td>
+										<td >商品单格</td>
+										<td >商品数量</td>
+										<td >合计价格</td>
+									</tr>
+									<foreach name="ordergoods" item="v">
+									<tr>
+										<td>{$v.goods_id}</td>
+										<td>{$v.goods_name}</td>
+										<td>{$v.goods_price}</td>
+										<td>{$v.goods_number}</td>
+										<td>{$v.goods_total_price}</td>
+									</tr>
+									</foreach>
+
+									</tbody>
+								</table>
+								<div style="width: 900px;height: 500px;">
+									<style type="text/css">
+										*{
+											margin:0px;
+											padding:0px;
+										}
+										body, button, input, select, textarea {
+											font: 12px/16px Verdana, Helvetica, Arial, sans-serif;
+										}
+										p{
+											width:603px;
+											padding-top:3px;
+											margin-top:10px;
+											overflow:hidden;
+										}
+										input#address{
+											width:300px;
+										}
+										#container {
+											min-width:603px;
+											min-height:500px;
+										}
+									</style>
+									<script charset="utf-8" src="http://map.qq.com/api/js?v=2.exp"></script>
+									<script>
+                                        var geocoder,map,marker = null;
+                                        var init = function() {
+                                            var center = new qq.maps.LatLng(39.916527,116.397128);
+                                            map = new qq.maps.Map(document.getElementById('container'),{
+                                                center: center,
+                                                zoom: 15
+                                            });
+                                            //调用地址解析类
+                                            geocoder = new qq.maps.Geocoder({
+                                                complete : function(result){
+                                                    map.setCenter(result.detail.location);
+                                                    var marker = new qq.maps.Marker({
+                                                        map:map,
+                                                        position: result.detail.location
+                                                    });
+                                                }
+                                            });
+                                        }
+
+                                        function codeAddress() {
+                                            //var address = "上海市松江区岳阳街道方舟苑3村" ;
+                                            //通过getLocation();方法获取位置信息值
+                                            var address = document.getElementById("address").value;
+                                            //通过getLocation();方法获取位置信息值
+                                            geocoder.getLocation(address);
+                                        }
+                                        window.onload=function(){
+                                            init();
+                                            codeAddress();
+										}
+									</script>
+									</head>
+									<body>
+									<div>
+										<input id="address" type="textbox" value="{$orderinfo.cgn}" >
+										<button onclick="codeAddress()">search</button>
+									</div>
+									<div id="container"></div>
+
+								</div>
+
+								<div class="form-actions">
+									<button type="submit" class="btn green" style="background-color: rgb(74, 141, 247); ">修改订单</button>
+								</div>
+
+							</div>
+
+						</div>
+
+						<!-- END EXAMPLE TABLE PORTLET-->
+
+					</div>
+
+				</div>
+
+				<!-- END PAGE CONTENT -->
+
+			</div>
+
+			<!-- END PAGE CONTAINER-->
+
+		</div>
+
+		<!-- END PAGE -->
+
+	</div>
+
+	<!-- END CONTAINER -->
+
+	<!-- BEGIN FOOTER -->
+
+
+<include file="Public/footer" />
+
+	<!-- END CORE PLUGINS -->
+
+	<!-- BEGIN PAGE LEVEL PLUGINS -->
+
+	<script type="text/javascript" src="{:C('ADMIN_JS_PATH')}select2.min.js"></script>
+
+	<script type="text/javascript" src="{:C('ADMIN_JS_PATH')}jquery.dataTables.js"></script>
+
+	<script type="text/javascript" src="{:C('ADMIN_JS_PATH')}DT_bootstrap.js"></script>
+
+	<!-- END PAGE LEVEL PLUGINS -->
+
+	<!-- BEGIN PAGE LEVEL SCRIPTS -->
+
+	<script src="{:C('ADMIN_JS_PATH')}app.js"></script>
+
+	<script src="{:C('ADMIN_JS_PATH')}table-editable.js"></script>    
+
+	<script>
+		var c_url="{:U('Goods/goods_del','',false)}";
+		jQuery(document).ready(function() {       
+
+		   App.init();
+
+		   TableEditable.init();
+
+		});
+
+	</script>
+
+</body>
+
+<!-- END BODY -->
+
+</html>

@@ -1,0 +1,409 @@
+<layout name="Public/layout"/>
+<!-- END GLOBAL MANDATORY STYLES -->
+
+<!-- BEGIN PAGE LEVEL STYLES -->
+
+<link rel="stylesheet" type="text/css" href="{:C('ADMIN_CSS_PATH')}select2_metro.css" />
+
+<link rel="stylesheet" type="text/css" href="{:C('ADMIN_CSS_PATH')}chosen.css" />
+<!--引入富文本编辑器-->
+<script type="text/javascript" charset="utf-8" src="{:C('ADMIN_PLNGIN_PATH')}ueditor/ueditor.config.js"></script>
+<script type="text/javascript" charset="utf-8" src="{:C('ADMIN_PLNGIN_PATH')}ueditor/ueditor.all.min.js"> </script>
+<script type="text/javascript" charset="utf-8" src="{:C('ADMIN_PLNGIN_PATH')}ueditor/lang/zh-cn/zh-cn.js"></script>
+
+<!-- END PAGE LEVEL STYLES -->
+
+<link rel="shortcut icon" href="{:C('ADMIN_IMG_PATH')}favicon.ico" />
+			<!-- END SAMPLE PORTLET CONFIGURATION MODAL FORM-->
+
+			<!-- END PAGE HEADER-->
+
+				<!-- BEGIN PAGE CONTENT-->
+
+
+
+				<div class="row-fluid">
+
+					<div class="span12">
+
+						<!-- BEGIN VALIDATION STATES-->
+
+						<div class="portlet box green">
+
+							<div class="portlet-title">
+
+								<div class="caption"><i class="icon-reorder"></i>商品添加</div>
+
+								<div class="tools">
+
+									<a href="javascript:;" class="collapse"></a>
+
+									<a href="#portlet-config" data-toggle="modal" class="config"></a>
+
+									<a href="javascript:;" class="reload"></a>
+
+									<a href="javascript:;" class="remove"></a>
+
+								</div>
+
+							</div>
+
+							<div class="portlet-body form">
+
+								<!-- BEGIN FORM-->
+								<form action="" id="form_sample_2" method="post" class="form-horizontal" enctype="multipart/form-data">
+
+									<div class="alert alert-error hide">
+
+										<button class="close" data-dismiss="alert"></button>
+
+										你还有未填写的项目！
+
+									</div>
+
+									<div class="alert alert-success hide">
+
+										<button class="close" data-dismiss="alert"></button>
+
+										验证成功！
+
+									</div>
+									<div class="control-group">
+										<label class="control-label">请选择分类<span class="required">*</span></label>
+										<div class="controls">
+											<select class="span6 m-wrap" name="cate_id">
+												<option value="">--请选择--</option>
+												<foreach name="cate_info" item="v">
+													<option value="{$v.cate_id}">{$v.cate_name}</option>
+												</foreach>
+											</select>
+										</div>
+									</div>
+
+									<div class="control-group">
+
+										<label class="control-label">商品名称<span class="required">*</span></label>
+
+										<div class="controls">
+
+											<input type="text" name="goods_name" data-required="1" class="span6 m-wrap"/>
+
+										</div>
+
+									</div>
+									<div class="control-group">
+
+										<label class="control-label">商品价格<span class="required">*</span></label>
+
+										<div class="controls">
+
+											<input type="text" name="goods_price" data-required="1" class="span6 m-wrap"/>
+
+										</div>
+
+									</div>
+									<div class="control-group">
+										<label class="control-label">商品Logo<span class="required">*</span></label>
+										<div class="controls">
+											<button type="button" class="btn green" onclick="getupload()" >点击上传图像</button>
+											<span id="gettext">&nbsp&nbsp*未填写</span>
+											<input type="file" name="logo" style="display:none" id="fileupload" />
+										</div>
+
+									</div>
+									<div class="control-group">
+										<label class="control-label">商品说明<span class="required">*</span></label>
+										<div class="controls">
+											<textarea name="goods_desc"  id="goods_desc" cols="10" rows="3"  style="width: 510px; height: 300px;"></textarea>
+										</div>
+
+									</div>
+									<hr/>
+									<h3>商品图片</h3>
+									<div class="controls">
+										<button type="button" class="btn green" onclick="getuploads()" >上传产品图片</button>
+										<span id="gettexts">&nbsp&nbsp*按住ctrl键可以选择多张图片进行上传</span>
+										<input type="file" name="goods_pic[]" style="display:none" id="fileuploads" multiple/>
+									</div>
+									<br/>
+									<div class="control-group">
+										<label class="control-label">请选择类型<span class="required">*</span></label>
+										<div class="controls">
+											<select class="span6 m-wrap" name="type_id" id="type_id">
+												<option value="">--请选择--</option>
+												<foreach name="type_info" item="v">
+													<option value="{$v.id}">{$v.type_name}</option>
+												</foreach>
+											</select>
+										</div>
+									</div>
+
+
+										<ul  style="list-style: none" id="attribute_option">
+
+										</ul>
+
+									</div>
+									<div class="form-actions">
+										<button type="submit" class="btn green">添加商品</button>
+
+									</div>
+
+
+								</form>
+
+								<!-- END FORM-->
+
+							</div>
+
+						</div>
+
+						<!-- END VALIDATION STATES-->
+
+					</div>
+
+				</div>
+
+				<!-- END PAGE CONTENT-->         
+
+			</div>
+
+			<!-- END PAGE CONTAINER-->
+
+		</div>
+
+		<!-- END PAGE -->  
+
+	</div>
+
+	<!-- END CONTAINER -->
+
+	<!-- BEGIN FOOTER -->
+
+	<include file="Public/footer" />
+	<!-- END FOOTER -->
+
+	<!-- BEGIN PAGE LEVEL PLUGINS -->
+
+	<script type="text/javascript" src="{:C('ADMIN_JS_PATH')}jquery.validate.min.js"></script>
+
+	<script type="text/javascript" src="{:C('ADMIN_JS_PATH')}additional-methods.min.js"></script>
+
+	<script type="text/javascript" src="{:C('ADMIN_JS_PATH')}select2.min.js"></script>
+
+	<script type="text/javascript" src="{:C('ADMIN_JS_PATH')}chosen.jquery.min.js"></script>
+
+	<!-- END PAGE LEVEL PLUGINS -->
+
+	<!-- BEGIN PAGE LEVEL STYLES -->
+
+	<script src="{:C('ADMIN_JS_PATH')}app.js"></script>
+
+	<script src="{:C('ADMIN_JS_PATH')}form-validation.js"></script> 
+
+	<!-- END PAGE LEVEL STYLES -->    
+
+	<script>
+
+		jQuery(document).ready(function() {   
+
+		   // initiate layout and plugins
+
+		   App.init();
+
+		   FormValidation.init();
+
+		});
+
+	</script>
+
+	<!-- END JAVASCRIPTS -->   
+
+</body>
+
+<!-- END BODY -->
+
+</html>
+
+<script type="text/javascript">
+	//初始化富文本
+    var ue= UE.getEditor('goods_desc',{toolbars: [[
+        'fullscreen', 'source', '|', 'undo', 'redo', '|',
+        'bold', 'italic', 'underline', 'fontborder', 'strikethrough', 'superscript', 'subscript', 'removeformat', 'formatmatch', 'autotypeset', 'blockquote', 'pasteplain', '|', 'forecolor', 'backcolor'
+
+    ]] ,elementPathEnabled : false,maximumWords:1000 } )
+</script>
+
+
+	<!--点击上传按钮后，获得文件的文件名-->
+<script type="text/javascript">
+	//单个商品LOGO上传
+	function getupload(){
+	    $('#fileupload').click();
+	}
+	$('#fileupload').change(function(){
+        $('#gettext').html($(this).val());
+	}
+
+	);
+
+	//多个商品图片上传
+    function getuploads(){
+        $('#fileuploads').click();
+    }
+    $('#fileuploads').change(function(){
+            $('#gettexts').html('图片已经选择');
+        }
+
+    );
+    function clone_li(e){
+        var str=$(e).html();
+        if(str=="[+]"){
+            $(e).html("[-]");
+            var new_li=$(e).parent().clone();
+            $(e).html("[+]");
+            $(e).parent().after(new_li);
+		}else{
+            $(e).parent().remove();
+		}
+
+
+	}
+
+
+
+    //进行判断所选的的商品类别进行展示所属商品的功能
+	$('#type_id').change(function(){
+		var type_id= $('#type_id').val();
+		//alert(type_id);
+		//通过ajax获得数据
+		$.getJSON("{:U('Attribute/get_attribute_by_typeid')}",{"type_id":type_id},function(data){
+				//console.log(data);
+            	var str='';
+				$.each(data,function (n,v) {
+
+				    //进行判断如果值是可选,拼凑出下拉框
+					if(v.attribute_type =='可选'){
+					    var value_option =v.attribute_option_value.split(',');
+					    str+="<label class='control-label'>"+v.attribute_name+"<span class='required'>*</span></label>"
+					    //console.log(value_option);
+						str+="<div class='controls'>";
+                        str+="<br><a href='javascript:void(0)' onclick='clone_li(this)'>[+]</a><select  name="+'attribute_option_value['+v.id+'][]'+" id ='type_id'><li>"
+                        for(i=0;i<value_option.length;i++){
+
+                            str+="<option  value="+value_option[i]+">"+value_option[i]+"</option>";
+
+						}
+						str+="</li></select>";
+						str+="</div><br>";
+						//console.log(str);
+					}else{
+                        str+="<label class='control-label'>"+v.attribute_name+"<span class='required'>*</span></label>"
+                        //console.log(value_option);
+                        str+="<div class='controls'>";
+					    str+="<br><input type=text  name='attribute_option_value["+v.id+"][]'/><br>";
+                        str+="</div>";
+					}
+
+                })
+            $("#attribute_option").html(str);
+		})
+
+	})
+
+
+
+	//表单进行验证
+    //Sample 2
+    $('#form_2_select2').select2({
+        placeholder: "Select an Option",
+        allowClear: true
+    });
+
+    var form2 = $('#form_sample_2');
+    var error2 = $('.alert-error', form2);
+    var success2 = $('.alert-success', form2);
+
+    form2.validate({
+        errorElement: 'span', //default input error message container
+        errorClass: 'help-inline', // default input error message class
+        focusInvalid: false, // do not focus the last invalid input
+        ignore: "",
+        rules: {
+            goods_name: {
+                minlength: 2,
+                required: true
+            },
+            goods_price: {
+                minlength: 1,
+                required: true
+            },
+            cate_id: {
+                required: true
+            },
+        },
+
+        messages: { // custom messages for radio buttons and checkboxes
+            membership: {
+                required: "Please select a Membership type"
+            },
+            service: {
+                required: "Please select  at least 2 types of Service",
+                minlength: jQuery.format("Please select  at least {0} types of Service")
+            }
+        },
+
+        errorPlacement: function (error, element) { // render error placement for each input type
+            if (element.attr("name") == "education") { // for chosen elements, need to insert the error after the chosen container
+                error.insertAfter("#form_2_education_chzn");
+            } else if (element.attr("name") == "membership") { // for uniform radio buttons, insert the after the given container
+                error.addClass("no-left-padding").insertAfter("#form_2_membership_error");
+            } else if (element.attr("name") == "service") { // for uniform checkboxes, insert the after the given container
+                error.addClass("no-left-padding").insertAfter("#form_2_service_error");
+            } else {
+                error.insertAfter(element); // for other inputs, just perform default behavoir
+            }
+        },
+
+        invalidHandler: function (event, validator) { //display error alert on form submit
+            success2.hide();
+            error2.show();
+            App.scrollTo(error2, -200);
+        },
+
+        highlight: function (element) { // hightlight error inputs
+            $(element)
+                .closest('.help-inline').removeClass('ok'); // display OK icon
+            $(element)
+                .closest('.control-group').removeClass('success').addClass('error'); // set error class to the control group
+        },
+
+        unhighlight: function (element) { // revert the change dony by hightlight
+            $(element)
+                .closest('.control-group').removeClass('error'); // set error class to the control group
+        },
+
+        success: function (label) {
+            if (label.attr("for") == "service" || label.attr("for") == "membership") { // for checkboxes and radip buttons, no need to show OK icon
+                label
+                    .closest('.control-group').removeClass('error').addClass('success');
+                label.remove(); // remove error label here
+            } else { // display success icon for other inputs
+                label
+                    .addClass('valid').addClass('help-inline ok') // mark the current input as valid and display OK icon
+                    .closest('.control-group').removeClass('error').addClass('success'); // set success class to the control group
+            }
+        },
+
+        submitHandler: function (form) {
+            form.submit();
+            //success2.show();
+            //error2.hide();
+        }
+
+    });
+
+
+
+
+</script>

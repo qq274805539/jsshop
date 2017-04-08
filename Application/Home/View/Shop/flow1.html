@@ -1,0 +1,126 @@
+{__NOLAYOUT__}
+<layout name="Public/layout1"/>
+
+<link rel="stylesheet" href="{:C('HOME_CSS_PATH')}cart.css" type="text/css">
+<script type="text/javascript" src="{:C('HOME_JS_PATH')}cart1.js"></script>
+
+<div style="clear:both;"></div>
+
+<!-- 页面头部 start -->
+<div class="header w990 bc mt15">
+    <div class="logo w990">
+        <h2 class="fl"><a href="index.html"><img src="{:C('HOME_IMG_PATH')}logo.png" alt="京西商城"></a></h2>
+        <!--进行判断-->
+        <eq name="Think.const.CONTROLLER_NAME" value="Shop">
+            <div class="flow fr">
+                <ul>
+                    <li class="cur">1.我的购物车</li>
+                    <li>2.填写核对订单信息</li>
+                    <li>3.成功提交订单</li>
+                </ul>
+            </div>
+        </eq>
+    </div>
+</div>
+<!-- 页面头部 end -->
+
+<div style="clear:both;"></div>
+
+<!-- 主体部分 start -->
+<div class="mycart w990 mt10 bc">
+    <h2><span>我的购物车</span></h2>
+    <table>
+        <thead>
+        <tr>
+            <th class="col1">商品名称</th>
+
+            <th class="col3">单价</th>
+            <th class="col4">数量</th>
+            <th class="col5">小计</th>
+            <th class="col6">操作</th>
+        </tr>
+        </thead>
+        <tbody>
+        <foreach name="cartinfo" item="v">
+            <tr id="xinxi_{$v.goods_id}">
+                <td class="col1" style="text-align: center"><a href=""><img src="{$v.logo}" alt=""/></a>
+                    <strong><a href="">{$v.goods_name}</a></strong></td>
+
+                <td class="col3">￥<span>{$v.goods_price}</span></td>
+                <td class="col4">
+                    <a href="javascript:;" class="reduce_num" onclick="modify_number('red',{$v.goods_id})"></a>
+                    <input type="text" name="amount" ID="goods_number_{$v.goods_id}" value="{$v.goods_buy_number}" class="amount"
+                           onchange="modify_number('mod',{$v['goods_id']})"/>
+                    <a href="javascript:;" class="add_num" onclick="modify_number('add',{$v.goods_id})"></a>
+                </td>
+                <td class="col5">￥<span id="goods_xiaoji_{$v.goods_id})">{$v['goods_price']*$v['goods_buy_number']}</span></td>
+                <td class="col6"><a href="javascript:del_goods({$v['goods_id']})">删除</a></td>
+            </tr>
+        </foreach>
+        </tbody>
+        <tfoot>
+        <tr>
+            <td colspan="6">购物金额总计： <strong>￥ <span id="total">{$number_price}</span></strong></td>
+        </tr>
+        </tfoot>
+    </table>
+
+
+    <div class="cart_btn w990 bc mt10">
+        <a href="" class="continue">继续购物</a>
+        <a href="{:U('Shop/flow2')}" class="checkout">结 算</a>
+    </div>
+</div>
+<!-- 主体部分 end -->
+
+<div style="clear:both;"></div>
+
+<script type="text/javascript">
+    function modify_number(flog, goods_id) {
+        //获得当前商品的ID;
+        var num=$('#goods_number_'+goods_id).val();
+        if (flog=='red') {
+            num--;
+
+        }else if(flog=='mod'){
+            num=$('#goods_number_'+goods_id).val();
+        }else if(flog=='add'){
+            num++;
+        }else {
+            alert('参数不合法');
+            return false;
+        }
+        //通过ajax修改服务器端购物车的数量；
+        $.ajax({
+            url:'/index.php/Home/Shop/changenumber',
+            data:{'goods_id':goods_id,'num':num},
+            dataType:'json',
+            type:'post',
+            success:function(msg){
+                $('#goods_number_'+goods_id).val(msg.total_price);
+                $('#goods_xiaoji_'+goods_id).val(msg.xiaoji_price);
+
+            }
+        });
+
+
+
+    };
+
+    function del_goods(goods_id) {
+        //通过ajax删除服务器端购物车的数量；
+        $.ajax({
+            url:'/index.php/Home/Shop/del_goods',
+            data:{'goods_id':goods_id},
+            dataType:'json',
+            type:'get',
+            success:function(msg){
+                $('#xinxi_'+goods_id).remove();
+            }
+        });
+
+    }
+
+
+
+</script>

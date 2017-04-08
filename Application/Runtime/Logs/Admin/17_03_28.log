@@ -1,0 +1,1934 @@
+[ 2017-03-28T09:02:53+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T09:02:56+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/img/avatar1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T09:03:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/img/avatar1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T17:17:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T17:54:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T17:58:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T17:58:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T17:58:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T17:58:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T17:58:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:04:24+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:04:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:06:45+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T18:11:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:11:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:11:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T18:11:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:11:32+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:12:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T18:12:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:12:53+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:13:06+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:13:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:13:29+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-03-28T18:19:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T18:19:53+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:21:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T18:22:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:23:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:23:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:23:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:25:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T18:25:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:25:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:25:11+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T18:26:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:28:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T18:28:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:29:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-03-28T18:29:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T18:30:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T18:31:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:32:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:32:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:38:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:38:35+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:39:15+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:39:55+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:39:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:41:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:44:34+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:45:56+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:45:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:46:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:46:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:46:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:46:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-03-28T18:47:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:47:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T18:48:52+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:48:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:48:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:48:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-03-28T18:48:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:49:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:49:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T18:50:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:50:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:50:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:50:48+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:51:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:51:36+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T18:51:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:53:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T18:55:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:56:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:56:24+08:00 ] 127.0.0.1 /index.php/Admin/Category/Category_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Category
+
+[ 2017-03-28T18:56:27+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:56:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:58:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T18:58:58+08:00 ] 127.0.0.1 /index.php/Admin/Category/Category_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Category
+
+[ 2017-03-28T19:01:38+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:01:39+08:00 ] 127.0.0.1 /index.php/Admin/Category/Category_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Category
+
+[ 2017-03-28T19:02:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T19:03:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:04:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:04:34+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T19:09:55+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:10:56+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:18:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T19:18:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:19:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:20:15+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:20:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:20:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T19:21:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:21:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:21:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:21:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T19:21:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:21:53+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:23:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T19:24:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:24:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:24:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:24:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-03-28T19:25:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:25:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:25:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:27:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T19:27:38+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/69
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0020s ]
+SQL: DELETE FROM `jsshop_goods` WHERE `id` = 69 [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant status - assumed 'status' F:\PHP2017\dsshop\Application\Admin\Controller\GoodsController.class.php 第 59 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:27:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/68
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0030s ]
+SQL: DELETE FROM `jsshop_goods` WHERE `id` = 68 [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant status - assumed 'status' F:\PHP2017\dsshop\Application\Admin\Controller\GoodsController.class.php 第 59 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:27:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:28:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T19:33:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:34:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:35:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:37:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:37:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:38:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:38:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:39:40+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T19:40:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:40:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T19:40:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:41:34+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:42:27+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T19:48:24+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-03-28T20:08:07+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:08:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:08:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:13:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:26:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T20:26:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:26:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:26:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:28:23+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T20:28:24+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:28:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T20:28:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:37:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-03-28T20:37:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T20:38:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T20:38:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T20:39:00+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T20:39:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T20:39:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:39:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T20:39:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:40:06+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:40:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:40:48+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:41:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:43:06+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T20:43:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:43:25+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 不存在的图像文件
+
+[ 2017-03-28T20:45:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:46:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:48:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T20:48:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T20:49:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:50:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T20:50:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:50:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:51:06+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T20:51:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T20:54:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:54:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:54:23+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 不存在的图像文件
+
+[ 2017-03-28T20:55:15+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T20:55:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:56:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:56:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:57:52+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:59:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:59:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:59:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T20:59:24+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T20:59:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 不存在的图像文件
+
+[ 2017-03-28T21:00:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:02:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-03-28T21:02:24+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:02:40+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 不存在的图像文件
+
+[ 2017-03-28T21:04:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:04:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 不存在的图像文件
+
+[ 2017-03-28T21:05:29+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:05:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 不存在的图像文件
+
+[ 2017-03-28T21:06:32+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:06:45+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:08:48+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-03-28T21:09:25+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T21:09:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 不存在的图像文件
+
+[ 2017-03-28T21:09:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:10:16+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T21:12:29+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:12:52+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:13:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 不存在的图像文件
+
+[ 2017-03-28T21:14:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-03-28T21:15:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T21:15:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T21:15:48+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T21:16:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:16:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:16:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T21:16:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T21:17:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T21:17:15+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T21:17:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:18:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:19:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T21:19:16+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T21:21:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:21:20+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:21:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:21:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-03-28T21:21:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:22:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:23:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:24:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:25:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:25:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-03-28T21:25:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/60
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0040s ]
+SQL: DELETE FROM `jsshop_goods` WHERE `id` = 60 [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant status - assumed 'status' F:\PHP2017\dsshop\Application\Admin\Controller\GoodsController.class.php 第 59 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T21:25:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/61
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0060s ]
+SQL: DELETE FROM `jsshop_goods` WHERE `id` = 61 [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant status - assumed 'status' F:\PHP2017\dsshop\Application\Admin\Controller\GoodsController.class.php 第 59 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T21:25:53+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/62
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0080s ]
+SQL: DELETE FROM `jsshop_goods` WHERE `id` = 62 [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant status - assumed 'status' F:\PHP2017\dsshop\Application\Admin\Controller\GoodsController.class.php 第 59 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T21:27:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T21:27:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:27:34+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T21:39:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:39:47+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:40:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:40:11+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai.html/id/111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Goods_xiugai.html
+
+[ 2017-03-28T21:40:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai.html/id/111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Goods_xiugai.html
+
+[ 2017-03-28T21:40:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:40:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T21:52:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:52:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:52:20+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `jsshop_goods` WHERE `id` = 111  [ RunTime:0.0010s ]
+
+[ 2017-03-28T21:52:23+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:52:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `jsshop_goods` WHERE `id` = 111  [ RunTime:0.0010s ]
+
+[ 2017-03-28T21:52:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:52:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `jsshop_goods` WHERE `id` = 111  [ RunTime:0.0010s ]
+
+[ 2017-03-28T21:57:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:58:06+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0030s ]
+SQL: DELETE FROM `jsshop_goods` WHERE `id` = 111 [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant status - assumed 'status' F:\PHP2017\dsshop\Application\Admin\Controller\GoodsController.class.php 第 59 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:58:24+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:58:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:58:48+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T21:58:56+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/112
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0030s ]
+
+[ 2017-03-28T22:17:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T22:17:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:18:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:19:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:19:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T22:19:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/113
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `jsshop_goods` WHERE `id` = 113 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] unlink(.113): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.apple): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1299.00): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.v打算v大是大非vv高峰): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490710739): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490710739): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jsshop.jsshop_good_pic' doesn't exist
+
+[ 2017-03-28T22:19:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:19:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/112
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `jsshop_goods` WHERE `id` = 112 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] unlink(.112): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.你好啊): Invalid argument F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.121.00): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(./Public/Uploads/Admin/Goods/Logo/2017-03-28/58da6c157ba59.jpg): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(./Public/Uploads/Admin/Goods/Logo/2017-03-28/sml_58da6c157ba59.jpg): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(./Public/Uploads/Admin/Goods/Logo/2017-03-28/mid_58da6c157ba59.jpg): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.v份vfv): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490709525): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490709525): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jsshop.jsshop_good_pic' doesn't exist
+
+[ 2017-03-28T22:19:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/113
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `jsshop_goods` WHERE `id` = 113 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] unlink(.113): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.apple): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1299.00): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(./Public/Uploads/Admin/Goods/Logo/2017-03-28/58da70d3de25d.jpg): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(./Public/Uploads/Admin/Goods/Logo/2017-03-28/sml_58da70d3de25d.jpg): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(./Public/Uploads/Admin/Goods/Logo/2017-03-28/mid_58da70d3de25d.jpg): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.v打算v大是大非vv高峰): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490710739): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490710739): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jsshop.jsshop_good_pic' doesn't exist
+
+[ 2017-03-28T22:21:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:21:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:21:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T22:21:35+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/114
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `jsshop_goods` WHERE `id` = 114 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] unlink(.114): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.你好啊): Invalid argument F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.12121212.00): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.VDEv发的v ): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490710878): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490710878): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods_pic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `jsshop_goods_pic` WHERE `goods_pic` = 114  [ RunTime:0.0000s ]
+SQL: DELETE FROM `jsshop_goods_pic` WHERE `goods_pic` = 114 [ RunTime:0.0000s ]
+
+[ 2017-03-28T22:21:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:22:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:22:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/113
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `jsshop_goods` WHERE `id` = 113 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] unlink(.113): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.apple): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1299.00): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(./Public/Uploads/Admin/Goods/Logo/2017-03-28/58da70d3de25d.jpg): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(./Public/Uploads/Admin/Goods/Logo/2017-03-28/sml_58da70d3de25d.jpg): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(./Public/Uploads/Admin/Goods/Logo/2017-03-28/mid_58da70d3de25d.jpg): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.v打算v大是大非vv高峰): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490710739): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490710739): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods_pic` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `jsshop_goods_pic` WHERE `goods_pic` = 113  [ RunTime:0.0000s ]
+SQL: DELETE FROM `jsshop_goods_pic` WHERE `goods_pic` = 113 [ RunTime:0.0000s ]
+
+[ 2017-03-28T22:22:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/114
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `jsshop_goods` WHERE `id` = 114 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] unlink(.114): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.你好啊): Invalid argument F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.12121212.00): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(./Public/Uploads/Admin/Goods/Logo/2017-03-28/58da715e94282.jpg): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(./Public/Uploads/Admin/Goods/Logo/2017-03-28/sml_58da715e94282.jpg): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(./Public/Uploads/Admin/Goods/Logo/2017-03-28/mid_58da715e94282.jpg): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.VDEv发的v ): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490710878): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490710878): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods_pic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `jsshop_goods_pic` WHERE `goods_pic` = 114  [ RunTime:0.0000s ]
+SQL: DELETE FROM `jsshop_goods_pic` WHERE `goods_pic` = 114 [ RunTime:0.0000s ]
+
+[ 2017-03-28T22:22:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:22:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/114
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `jsshop_goods` WHERE `id` = 114 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] unlink(.114): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.你好啊): Invalid argument F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.12121212.00): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(./Public/Uploads/Admin/Goods/Logo/2017-03-28/58da715e94282.jpg): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(./Public/Uploads/Admin/Goods/Logo/2017-03-28/sml_58da715e94282.jpg): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(./Public/Uploads/Admin/Goods/Logo/2017-03-28/mid_58da715e94282.jpg): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.VDEv发的v ): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490710878): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490710878): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `jsshop_goods_pic` WHERE `goods_pic` = 114  [ RunTime:0.0000s ]
+SQL: DELETE FROM `jsshop_goods_pic` WHERE `goods_pic` = 114 [ RunTime:0.0000s ]
+
+[ 2017-03-28T22:22:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:22:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/112
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `jsshop_goods` WHERE `id` = 112 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] unlink(.112): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.你好啊): Invalid argument F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.121.00): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(./Public/Uploads/Admin/Goods/Logo/2017-03-28/58da6c157ba59.jpg): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(./Public/Uploads/Admin/Goods/Logo/2017-03-28/sml_58da6c157ba59.jpg): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(./Public/Uploads/Admin/Goods/Logo/2017-03-28/mid_58da6c157ba59.jpg): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.v份vfv): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490709525): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490709525): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods_pic` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `jsshop_goods_pic` WHERE `goods_pic` = 112  [ RunTime:0.0000s ]
+SQL: DELETE FROM `jsshop_goods_pic` WHERE `goods_pic` = 112 [ RunTime:0.0000s ]
+
+[ 2017-03-28T22:28:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T22:28:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:28:32+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:28:45+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/115
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `jsshop_goods` WHERE `id` = 115 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] unlink(.115): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.你好啊啊22): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1254.00): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.第三次 分都不放过): Invalid argument F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490711309): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490711309): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods_pic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `jsshop_goods_pic` WHERE `goods_pic` = 115  [ RunTime:0.0000s ]
+SQL: DELETE FROM `jsshop_goods_pic` WHERE `goods_pic` = 115 [ RunTime:0.0000s ]
+
+[ 2017-03-28T22:29:11+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:29:37+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T22:29:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:29:56+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T22:30:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/116
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `jsshop_goods` WHERE `id` = 116 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] unlink(.116): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.你好啊 啊): Invalid argument F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.12102.00): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(. v放到v  ): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490711394): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490711394): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods_pic` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `jsshop_goods_pic` WHERE `goods_pic` = 116  [ RunTime:0.0010s ]
+SQL: DELETE FROM `jsshop_goods_pic` WHERE `goods_pic` = 116 [ RunTime:0.0000s ]
+SQL: DELETE FROM `jsshop_goods` WHERE `id` = 116 [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant status - assumed 'status' F:\PHP2017\dsshop\Application\Admin\Controller\GoodsController.class.php 第 59 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T22:30:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T22:31:53+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:32:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:32:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T22:32:25+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/117
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `jsshop_goods` WHERE `id` = 117 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] unlink(.117): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.你好啊 是的都是 上档次都是VC): Invalid argument F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.12313213.00): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.才fv  ): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490711527): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490711527): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods_pic` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `jsshop_goods_pic` WHERE `goods_pic` = 117  [ RunTime:0.0000s ]
+SQL: DELETE FROM `jsshop_goods_pic` WHERE `goods_pic` = 117 [ RunTime:0.0000s ]
+SQL: DELETE FROM `jsshop_goods` WHERE `id` = 117 [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant status - assumed 'status' F:\PHP2017\dsshop\Application\Admin\Controller\GoodsController.class.php 第 59 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T22:32:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:34:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:34:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:34:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:34:34+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:34:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/118
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `jsshop_goods` WHERE `id` = 118 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] unlink(.118): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.你次啊次啊啊): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.12589.00): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(. v点睡v从的v的): Invalid argument F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490711671): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490711671): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods_pic` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `jsshop_goods_pic` WHERE `goods_id` = 118  [ RunTime:0.0000s ]
+SQL: DELETE FROM `jsshop_goods_pic` WHERE `goods_id` = 118 [ RunTime:0.0010s ]
+SQL: DELETE FROM `jsshop_goods` WHERE `id` = 118 [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant status - assumed 'status' F:\PHP2017\dsshop\Application\Admin\Controller\GoodsController.class.php 第 59 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T22:34:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:35:32+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T22:35:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:35:55+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:35:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T22:36:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_del/id/119
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\GoodsModel::_after_insert() should be compatible with Think\Model::_after_insert($data, $options) F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `jsshop_goods` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `jsshop_goods` WHERE `id` = 119 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] unlink(.119): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.山水画): Invalid argument F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1252.00): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.你好啊啊 啊的房产): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490711754): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+NOTIC: [2] unlink(.1490711754): No such file or directory F:\PHP2017\dsshop\Application\Admin\Model\GoodsModel.class.php 第 47 行.
+SQL: SHOW COLUMNS FROM `jsshop_goods_pic` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `jsshop_goods_pic` WHERE `goods_id` = 119  [ RunTime:0.0000s ]
+SQL: DELETE FROM `jsshop_goods_pic` WHERE `goods_id` = 119 [ RunTime:0.0010s ]
+SQL: DELETE FROM `jsshop_goods` WHERE `id` = 119 [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant status - assumed 'status' F:\PHP2017\dsshop\Application\Admin\Controller\GoodsController.class.php 第 59 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T22:36:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:36:32+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T22:36:53+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:36:55+08:00 ] 127.0.0.1 /index.php/Admin/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:37:00+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T22:39:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:40:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:42:38+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T22:43:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T22:43:23+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:43:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:44:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:44:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:46:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:46:45+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T22:51:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-03-28T22:51:37+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:54:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:54:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:54:27+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:54:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:57:45+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:57:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T22:59:53+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-28T23:00:20+08:00 ] 127.0.0.1 /index.php/Admin/Goods/Goods_xiugai/id/120
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
